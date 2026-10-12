@@ -1,0 +1,7 @@
+D:\Patrik Paramin\programirnaje2D\programiranje\zadatak1\bin\Debug\zadatak1.exe.config
+D:\Patrik Paramin\programirnaje2D\programiranje\zadatak1\bin\Debug\zadatak1.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\zadatak1\bin\Debug\zadatak1.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\zadatak1\obj\Debug\zadatak1.csproj.AssemblyReference.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\zadatak1\obj\Debug\zadatak1.csproj.CoreCompileInputs.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\zadatak1\obj\Debug\zadatak1.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\zadatak1\obj\Debug\zadatak1.pdb

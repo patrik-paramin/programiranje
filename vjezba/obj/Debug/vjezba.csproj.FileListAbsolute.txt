@@ -1,0 +1,8 @@
+D:\Patrik Paramin\programirnaje2D\programiranje\vjezba\bin\Debug\vjezba.exe.config
+D:\Patrik Paramin\programirnaje2D\programiranje\vjezba\bin\Debug\vjezba.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\vjezba\bin\Debug\vjezba.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\vjezba\obj\Debug\vjezba.csproj.AssemblyReference.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\vjezba\obj\Debug\vjezba.csproj.CoreCompileInputs.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\vjezba\obj\Debug\vjezba.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\vjezba\obj\Debug\vjezba.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\vjezba\obj\Debug\vjezba.exe.config
