@@ -6,3 +6,10 @@ D:\Patrik Paramin\programirnaje2D\programiranje\vježbe5\bin\Debug\vježbe5.pdb
 D:\Patrik Paramin\programirnaje2D\programiranje\vježbe5\obj\Debug\vježbe5.exe
 D:\Patrik Paramin\programirnaje2D\programiranje\vježbe5\obj\Debug\vježbe5.pdb
 D:\Patrik Paramin\programirnaje2D\programiranje\vježbe5\obj\Debug\vježbe5.exe.config
+C:\Users\Korisnik\Desktop\Programiranj\programiranje2D\programiranje\vježbe5\bin\Debug\vježbe5.exe.config
+C:\Users\Korisnik\Desktop\Programiranj\programiranje2D\programiranje\vježbe5\bin\Debug\vježbe5.exe
+C:\Users\Korisnik\Desktop\Programiranj\programiranje2D\programiranje\vježbe5\bin\Debug\vježbe5.pdb
+C:\Users\Korisnik\Desktop\Programiranj\programiranje2D\programiranje\vježbe5\obj\Debug\vježbe5.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Programiranj\programiranje2D\programiranje\vježbe5\obj\Debug\vježbe5.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Programiranj\programiranje2D\programiranje\vježbe5\obj\Debug\vježbe5.exe
+C:\Users\Korisnik\Desktop\Programiranj\programiranje2D\programiranje\vježbe5\obj\Debug\vježbe5.pdb
