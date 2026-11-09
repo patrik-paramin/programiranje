@@ -1,0 +1,8 @@
+D:\Patrik Paramin\programirnaje2D\programiranje\ucenik\bin\Debug\ucenik.exe.config
+D:\Patrik Paramin\programirnaje2D\programiranje\ucenik\bin\Debug\ucenik.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\ucenik\bin\Debug\ucenik.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\ucenik\obj\Debug\ucenik.csproj.AssemblyReference.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\ucenik\obj\Debug\ucenik.csproj.CoreCompileInputs.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\ucenik\obj\Debug\ucenik.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\ucenik\obj\Debug\ucenik.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\ucenik\obj\Debug\ucenik.exe.config

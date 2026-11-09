@@ -1,0 +1,7 @@
+D:\Patrik Paramin\programirnaje2D\programiranje\ponavljanje\bin\Debug\ponavljanje.exe.config
+D:\Patrik Paramin\programirnaje2D\programiranje\ponavljanje\bin\Debug\ponavljanje.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\ponavljanje\bin\Debug\ponavljanje.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\ponavljanje\obj\Debug\ponavljanje.csproj.AssemblyReference.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\ponavljanje\obj\Debug\ponavljanje.csproj.CoreCompileInputs.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\ponavljanje\obj\Debug\ponavljanje.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\ponavljanje\obj\Debug\ponavljanje.pdb

@@ -1,0 +1,8 @@
+D:\Patrik Paramin\programirnaje2D\programiranje\test.Paramin\bin\Debug\test.Paramin.exe.config
+D:\Patrik Paramin\programirnaje2D\programiranje\test.Paramin\bin\Debug\test.Paramin.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\test.Paramin\bin\Debug\test.Paramin.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\test.Paramin\obj\Debug\test.Paramin.csproj.AssemblyReference.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\test.Paramin\obj\Debug\test.Paramin.csproj.CoreCompileInputs.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\test.Paramin\obj\Debug\test.Paramin.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\test.Paramin\obj\Debug\test.Paramin.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\test.Paramin\obj\Debug\test.Paramin.exe.config

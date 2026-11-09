@@ -1,0 +1,8 @@
+D:\Patrik Paramin\programirnaje2D\programiranje\rekurzijr\obj\Debug\rekurzijr.csproj.AssemblyReference.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\rekurzijr\obj\Debug\rekurzijr.csproj.CoreCompileInputs.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\rekurzijr\bin\Debug\rekurzijr.exe.config
+D:\Patrik Paramin\programirnaje2D\programiranje\rekurzijr\bin\Debug\rekurzijr.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\rekurzijr\bin\Debug\rekurzijr.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\rekurzijr\obj\Debug\rekurzijr.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\rekurzijr\obj\Debug\rekurzijr.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\rekurzijr\obj\Debug\rekurzijr.exe.config

@@ -1,0 +1,8 @@
+D:\Patrik Paramin\programirnaje2D\programiranje\faktorijel\bin\Debug\faktorijel.exe.config
+D:\Patrik Paramin\programirnaje2D\programiranje\faktorijel\bin\Debug\faktorijel.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\faktorijel\bin\Debug\faktorijel.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\faktorijel\obj\Debug\faktorijel.csproj.AssemblyReference.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\faktorijel\obj\Debug\faktorijel.csproj.CoreCompileInputs.cache
+D:\Patrik Paramin\programirnaje2D\programiranje\faktorijel\obj\Debug\faktorijel.exe
+D:\Patrik Paramin\programirnaje2D\programiranje\faktorijel\obj\Debug\faktorijel.pdb
+D:\Patrik Paramin\programirnaje2D\programiranje\faktorijel\obj\Debug\faktorijel.exe.config
